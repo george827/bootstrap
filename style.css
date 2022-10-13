@@ -1,0 +1,42 @@
+body {
+  background: #e5e5e5;
+}
+
+.header-section {
+  background-image: url("images/Header\ bg@2x.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #fff;
+  border-bottom-left-radius: 150px;
+  height: 800px;
+}
+
+.contact-section {
+  background: #6070ff;
+  background-image: url("images/contact\ form\ background\ shapes@2x.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top-left-radius: 150px;
+  margin-top: -150px;
+}
+
+.works-section {
+  background-color: #fff;
+  border-radius: 8px;
+  height: 496px;
+}
+
+.about-section {
+  background-color: #fff;
+  border-top-right-radius: 150px;
+  height: 900px;
+}
+
+li {
+  list-style: none;
+}
+
+.lang {
+  display: flex;
+  justify-content: space-between;
+}
